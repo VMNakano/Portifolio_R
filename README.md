@@ -9,7 +9,7 @@ Background in: Engenharia, Gestão pela Qualidade Total, Auditoria.
 
 ## Links:
 
-[LinkedIn] (https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
+(LinkedIn) [https://www.linkedin.com/in/val%C3%A9ria-n-13030747/]
 
 Medium
 
