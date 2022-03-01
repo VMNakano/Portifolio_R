@@ -17,11 +17,12 @@ My credentials include a specialization in Internal Audit and Governmental Contr
 * [LinkedIn](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
 * [Medium](https://www.medium.com)
 
-# Portifolio_R
-Meu portfólio com projetos em R realizados no:
-- curso Data Science Analytics (Adriana Silva)
+# Portfolio_R
 
-# Projetos:
+My portfolio with R Language projects carried out at:
+- Data Science Analytics course (teacher Adriana Silva)
 
-## 1: Análise de Dados - 
-Dados ... 
+# Projects:
+
+## 1: Data Analysis - 
+Data provided by ...
