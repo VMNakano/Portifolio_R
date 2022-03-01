@@ -24,5 +24,7 @@ My portfolio with R Language projects carried out at:
 
 # Projects:
 
-## 1: Data Analysis - 
+**1: Data Analysis - **
+
 Data provided by ...
+
